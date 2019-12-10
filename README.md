@@ -1,2 +1,2 @@
 # pytest_demo
-A repository for demonstrating pytest with travis-ci
+A repository for demonstrating pytest with travis-ci.
