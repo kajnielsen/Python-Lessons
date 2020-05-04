@@ -1,0 +1,17 @@
+vi19iisa220 - string
+stud1 -string
+123456-0001 - interger
+Donna Montoya - string
+55511111 - string
+03-02-2020 - string / integer
+19-06-2020 - string / integer
+8kjAXWRLQT - string
+Donna - string
+Montoya - string
+Prinsens alle 2, 1234 - string
+8800 - integer
+Viborg - string
+51234 - integer
+55511111 - integer
+stud1@student.eadania.dk - string
+Programming, Network, IoT, How not to fall alseep during an online lecture, pentest - string

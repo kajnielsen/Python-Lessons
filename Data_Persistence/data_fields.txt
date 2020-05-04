@@ -1,0 +1,17 @@
+ActivityNumber 
+Username
+SSN
+Fullname
+MobilePhone
+Activity start Date
+Activity End Date
+Initial password
+Given name
+Surname
+Address
+Postal code
+City
+IDFromAdministrativeSystem
+MobilePhone
+Email
+Classes
