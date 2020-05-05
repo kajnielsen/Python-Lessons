@@ -16,7 +16,10 @@ import os
 
 
 def myOS_File_write():
-    f = os.open("os.myfile.dat", os.O_WRONLY | os.O_CREAT) #using pipe means that it will be both operations
+    script_dir = os.path.dirname(__file__)
+    filename = "os.myfile.dat"
+    path = script_dir + '/' + filename
+    f = os.open(path, os.O_WRONLY | os.O_CREAT) #using pipe means that it will be both operations
     data="Goodmorning ÆØÅæøå class".encode('utf-8')
     os.write(f,data)
     os.close(f)
