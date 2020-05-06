@@ -1,13 +1,9 @@
 import os.path
 
-path = os.path.abspath(os.path.dirname(__file__))
+"""
+Use these commands to find the absolute path to this file on your system.
 
-print(path)
+os.path.abspath(os.path.dirname(__file__))
+os.path.join(path, file_name)
 
-file_name = "pythonClass.db"
-
-print(file_name)
-
-full_path = os.path.join(path, file_name)
-
-print(full_path)
+"""
