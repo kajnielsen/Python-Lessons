@@ -4,7 +4,7 @@ path = os.path.abspath(os.path.dirname(__file__))
 
 print(path)
 
-file_name = r"mySpecial/filename"
+file_name = "pythonClass.db"
 
 print(file_name)
 

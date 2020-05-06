@@ -13,5 +13,3 @@ def create_connection(db_file):
         
     return conn
 
-
-print(create_connection(r'/home/kani/github/Python_Examples/SQLite/pythonClass.db'))
