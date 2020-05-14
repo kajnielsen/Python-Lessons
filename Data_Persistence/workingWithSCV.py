@@ -18,7 +18,4 @@ def csvFunctionOne():
 
 
 
-var = "dog" 
-dic = {var: "birb"}
-var = "cat"
-print (dic)
+csvFunctionOne()
